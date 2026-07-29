@@ -1,0 +1,26 @@
+.stats-card {
+  background: #f3f4f6;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  border-left: 4px solid #2563eb;
+  margin-bottom: 1.5rem;
+}
+
+.btn-match {
+  background-color: #059669;
+}
+
+.btn-match:hover {
+  background-color: #047857;
+}
+
+.match-group {
+  margin-bottom: 1.5rem;
+  border-bottom: 1px dashed #d1d5db;
+  padding-bottom: 1rem;
+}
+
+.text-muted {
+  color: #6b7280;
+  font-style: italic;
+}
